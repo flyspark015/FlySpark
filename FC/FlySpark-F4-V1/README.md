@@ -15,6 +15,9 @@ Runs **Betaflight**, **INAV** and **ArduPilot** (Mission Planner / QGroundContro
 
 </div>
 
+> ✨ **New: [FlySpark F4 V2](../FlySpark-F4-V2)** — upgraded build quality, identical pinout. Everything on this page
+> (pinout, wiring, stack guide) and **all firmware** apply to **both V1 and V2**.
+
 ---
 
 ## ✨ Highlights

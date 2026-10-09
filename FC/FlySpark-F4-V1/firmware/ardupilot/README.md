@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟢 ArduPilot 4.7.1 — FlySpark F4 V1 (Mission Planner)
+# 🟢 ArduPilot 4.7.1 — FlySpark F4 V1 / V2 (Mission Planner)
 
 [![ArduCopter](https://img.shields.io/badge/ArduCopter-4.7.1-1E9E40?style=for-the-badge)](https://github.com/ArduPilot/ardupilot/tree/Copter-4.7.1)
 [![ArduPlane](https://img.shields.io/badge/ArduPlane-4.7.1-1E9E40?style=for-the-badge)](https://github.com/ArduPilot/ardupilot/tree/Plane-4.7.1)

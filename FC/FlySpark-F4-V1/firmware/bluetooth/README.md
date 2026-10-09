@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📶 FlySpark Bluetooth Bridge V12 — FlySpark F4 V1
+# 📶 FlySpark Bluetooth Bridge V12 — FlySpark F4 V1 / V2
 
 [![BLE](https://img.shields.io/badge/BLE_bridge-V12-2962FF?style=for-the-badge)](#)
 [![Chip](https://img.shields.io/badge/ESP32--C3-on_board-222?style=for-the-badge)](#)
@@ -9,7 +9,7 @@
 
 </div>
 
-The F4 V1 has an **ESP32-C3** that links your phone to the flight controller (UART4, 115200). It is **factory
+The F4 V1 and V2 have an **ESP32-C3** that links your phone to the flight controller (UART4, 115200). It is **factory
 installed** — you only need this file to repair or update the Bluetooth chip.
 
 ## ✨ What V12 does

@@ -4,8 +4,9 @@ We are happy to help you get flying. 🚁
 
 ## 1️⃣ Check the docs first
 
-- 🧠 [FlySpark F4 V1 manual & pinout](FC/FlySpark-F4-V1)
-- 💾 [F4 V1 firmware + flashing guides](FC/FlySpark-F4-V1/firmware)
+- ✨ [FlySpark F4 V2 page](FC/FlySpark-F4-V2)
+- 🧠 [FlySpark F4 V1 / V2 manual & pinout](FC/FlySpark-F4-V1)
+- 💾 [F4 V1 / V2 firmware + flashing guides](FC/FlySpark-F4-V1/firmware)
 - ⚙️ [BLS 60A ESC settings](ESC/FlySpark-BLS-60A)
 - 🟦 [H743 Pro](FC/FlySpark-H743-Pro)
 
@@ -21,7 +22,7 @@ We are happy to help you get flying. 🚁
 
 ## 3️⃣ What to send us (faster answers ⚡)
 
-- Board name (e.g. *FlySpark F4 V1*) and where you bought it
+- Board name (e.g. *FlySpark F4 V2*) and where you bought it
 - Firmware + version (e.g. *Betaflight 2026.6.2*)
 - What you expected vs what happened
 - Screenshot of the configurator / Mission Planner, or the CLI `diff all` / parameter file

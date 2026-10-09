@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟡 Betaflight 2026.6.2 — FlySpark F4 V1
+# 🟡 Betaflight 2026.6.2 — FlySpark F4 V1 / V2
 
 [![Betaflight](https://img.shields.io/badge/Betaflight-2026.6.2-FFBB00?style=for-the-badge)](https://github.com/betaflight/betaflight/releases/tag/2026.6.2)
 [![Target](https://img.shields.io/badge/Target-FLYSPARKF4-222?style=for-the-badge)](config.h)

@@ -8,7 +8,9 @@ body:
     attributes:
       label: Product
       options:
+        - FlySpark F4 V2 flight controller
         - FlySpark F4 V1 flight controller
+        - FlySpark F4 V2 + BLS 60A stack
         - FlySpark F4 V1 + BLS 60A stack
         - FlySpark BLS 60A ESC
         - FlySpark H743 Pro

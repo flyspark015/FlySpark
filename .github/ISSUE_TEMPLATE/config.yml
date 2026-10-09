@@ -6,6 +6,6 @@ contact_links:
   - name: "🌐 flyspark.in contact page"
     url: https://flyspark.in/contact
     about: Orders, dealers and business enquiries
-  - name: "📘 FlySpark F4 V1 manual & firmware"
+  - name: "📘 FlySpark F4 V1 / V2 manual & firmware"
     url: https://github.com/flyspark015/FlySpark/tree/main/FC/FlySpark-F4-V1
     about: Pinout, wiring diagrams and flashing guides

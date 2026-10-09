@@ -1,13 +1,13 @@
 <div align="center">
 
-# 💾 FlySpark F4 V1 — Firmware
+# 💾 FlySpark F4 V1 / V2 — Firmware
 
-[⬅️ Back to FlySpark F4 V1](../README.md) · [🏠 FlySpark home](../../../README.md)
+[⬅️ FlySpark F4 V1](../README.md) · [⬅️ FlySpark F4 V2](../../FlySpark-F4-V2) · [🏠 FlySpark home](../../../README.md)
 
 </div>
 
 > ✅ All builds are made from the **official release tags** of each project, with FlySpark defaults for the
-> F4 V1 + BLS 60A stack (DShot300, no current sensor, Bluetooth port ready). Source changes are published as `.patch` files.
+> F4 V1 / V2 + BLS 60A stack (DShot300, no current sensor, Bluetooth port ready). Source changes are published as `.patch` files.
 
 ## ⬇️ Downloads
 

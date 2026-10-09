@@ -14,6 +14,7 @@
 [![INAV](https://img.shields.io/badge/INAV-9.1.0-0090D0?style=flat-square)](FC/FlySpark-F4-V1/firmware/inav)
 [![ArduPilot](https://img.shields.io/badge/ArduPilot-4.7.1-1E9E40?style=flat-square)](FC/FlySpark-F4-V1/firmware/ardupilot)
 [![Mission Planner](https://img.shields.io/badge/Mission_Planner-supported-6A1B9A?style=flat-square)](FC/FlySpark-F4-V1/firmware/ardupilot)
+[![F4](https://img.shields.io/badge/F4-V1_%7C_V2-F5C400?style=flat-square)](FC/FlySpark-F4-V2)
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-built--in-2962FF?style=flat-square)](FC/FlySpark-F4-V1/firmware/bluetooth)
 
 </div>
@@ -26,10 +27,11 @@
 
 | 🧠 Board | 🟡 Betaflight | 🔵 INAV | 🟢 ArduPilot (Mission Planner) | 📶 Bluetooth |
 |---|:---:|:---:|:---:|:---:|
+| **[FlySpark F4 V2](FC/FlySpark-F4-V2)** ✨ new | [**2026.6.2** ⬇️](FC/FlySpark-F4-V1/firmware/betaflight) | [**9.1.0** ⬇️](FC/FlySpark-F4-V1/firmware/inav) | [**Copter / Plane 4.7.1** ⬇️](FC/FlySpark-F4-V1/firmware/ardupilot) | [**V12** ⬇️](FC/FlySpark-F4-V1/firmware/bluetooth) |
 | **[FlySpark F4 V1](FC/FlySpark-F4-V1)** | [**2026.6.2** ⬇️](FC/FlySpark-F4-V1/firmware/betaflight) | [**9.1.0** ⬇️](FC/FlySpark-F4-V1/firmware/inav) | [**Copter / Plane 4.7.1** ⬇️](FC/FlySpark-F4-V1/firmware/ardupilot) | [**V12** ⬇️](FC/FlySpark-F4-V1/firmware/bluetooth) |
 | **[FlySpark H743 Pro](FC/FlySpark-H743-Pro)** | 🔜 soon | 🔜 soon | 🔜 soon | — |
 
-📦 **All firmware for the F4 in one place:** [FC/FlySpark-F4-V1/firmware](FC/FlySpark-F4-V1/firmware)
+📦 **All firmware for the F4 (V1 + V2 use the same files) in one place:** [FC/FlySpark-F4-V1/firmware](FC/FlySpark-F4-V1/firmware)
 
 ---
 
@@ -39,9 +41,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🟨 [FlySpark F4 V1 Flight Controller](FC/FlySpark-F4-V1)
+### 🟨 [FlySpark F4 V2](FC/FlySpark-F4-V2) ✨ / [V1](FC/FlySpark-F4-V1) Flight Controller
 
-<a href="FC/FlySpark-F4-V1"><img src="FC/FlySpark-F4-V1/images/flyspark_f4_fc.png" alt="FlySpark F4 V1" width="260"></a>
+<a href="FC/FlySpark-F4-V2"><img src="FC/FlySpark-F4-V1/images/flyspark_f4_fc.png" alt="FlySpark F4 V2 / V1" width="260"></a>
+
+**V2** = upgraded build quality · same pinout & firmware as V1
 
 - STM32F405 · ICM-42688-P · DPS310 baro
 - MAX7456 OSD · microSD blackbox
@@ -49,7 +53,7 @@
 - 8 motor outputs · 6 UARTs · 5 V / 9 V BEC
 - Betaflight · INAV · ArduPilot
 
-[📘 Manual & pinout](FC/FlySpark-F4-V1) · [💾 Firmware](FC/FlySpark-F4-V1/firmware) · [🛒 Buy](https://flyspark.in/products/flyspark-f4-v1-flight-controller)
+[📘 V2 page](FC/FlySpark-F4-V2) · [📘 V1 manual & pinout](FC/FlySpark-F4-V1) · [💾 Firmware](FC/FlySpark-F4-V1/firmware) · [🛒 Buy V1](https://flyspark.in/products/flyspark-f4-v1-flight-controller) · [💬 Order V2](https://wa.me/916375729997)
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +73,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 [FlySpark F4 V1 + BLS 60A Stack](FC/FlySpark-F4-V1)
+### 🔌 [FlySpark F4 V1 / V2 + BLS 60A Stack](FC/FlySpark-F4-V1#-stack-flyspark-f4-v1--bls-60a)
 
 FC + 60A 4-in-1 ESC on one 30.5 mm stack, plug-and-play 8-pin harness.
 
@@ -107,6 +111,7 @@ You can switch at any time — every firmware page explains how to flash and how
 ```text
 FlySpark/
 ├── FC/
+│   ├── FlySpark-F4-V2/          ✨ V2 page (same firmware as V1)
 │   ├── FlySpark-F4-V1/          📘 manual, pinout, wiring, stack guide
 │   │   ├── images/              🖼️ board photos + wiring diagrams
 │   │   └── firmware/

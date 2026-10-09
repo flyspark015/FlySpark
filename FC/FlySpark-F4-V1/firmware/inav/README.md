@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔵 INAV 9.1.0 — FlySpark F4 V1
+# 🔵 INAV 9.1.0 — FlySpark F4 V1 / V2
 
 [![INAV](https://img.shields.io/badge/INAV-9.1.0-0090D0?style=for-the-badge)](https://github.com/iNavFlight/inav/releases/tag/9.1.0)
 [![Target](https://img.shields.io/badge/Target-FlySparkF4v1-222?style=for-the-badge)](https://github.com/iNavFlight/inav/tree/9.1.0/src/main/target/FLYSPARKF4V4)

@@ -6,7 +6,7 @@
 [![Rating](https://img.shields.io/badge/60A_cont-80A_burst-222?style=for-the-badge)](#-specs)
 [![Input](https://img.shields.io/badge/LiPo-3--6S-F5C400?style=for-the-badge)](#-specs)
 
-[🛒 Buy ESC](https://flyspark.in/products/flyspark-bls-60a-4-in-1-esc) · [🛒 Buy F4 stack](https://flyspark.in/products/flyspark-f4-v1-bls-60a-stack-flight-controller-4-in-1-esc) · [🧠 FlySpark F4 V1](../../FC/FlySpark-F4-V1) · [🏠 Home](../../README.md)
+[🛒 Buy ESC](https://flyspark.in/products/flyspark-bls-60a-4-in-1-esc) · [🛒 Buy F4 stack](https://flyspark.in/products/flyspark-f4-v1-bls-60a-stack-flight-controller-4-in-1-esc) · [🧠 FlySpark F4 V1](../../FC/FlySpark-F4-V1) · [✨ FlySpark F4 V2](../../FC/FlySpark-F4-V2) · [🏠 Home](../../README.md)
 
 </div>
 
