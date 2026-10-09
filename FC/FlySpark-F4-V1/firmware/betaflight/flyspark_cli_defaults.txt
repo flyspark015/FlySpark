@@ -1,0 +1,7 @@
+# FlySpark F4 V1 + BLS 60A stack - Betaflight 2026.6.x defaults
+# Paste into the Betaflight CLI after flashing, then press Enter.
+set motor_pwm_protocol = DSHOT300
+set dshot_bidir = OFF
+set current_meter = NONE
+serial UART4 1 115200 57600 0 115200
+save

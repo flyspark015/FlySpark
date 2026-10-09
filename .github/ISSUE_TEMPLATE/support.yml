@@ -1,0 +1,48 @@
+name: "🛟 Support request"
+description: Help with a FlySpark flight controller, ESC or firmware
+title: "[Support] "
+labels: ["support"]
+body:
+  - type: dropdown
+    id: board
+    attributes:
+      label: Product
+      options:
+        - FlySpark F4 V1 flight controller
+        - FlySpark F4 V1 + BLS 60A stack
+        - FlySpark BLS 60A ESC
+        - FlySpark H743 Pro
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: firmware
+    attributes:
+      label: Firmware
+      options:
+        - Betaflight
+        - INAV
+        - ArduPilot (Copter)
+        - ArduPilot (Plane)
+        - Bluetooth bridge
+        - BLHeli_S (ESC)
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Firmware version
+      placeholder: e.g. Betaflight 2026.6.2
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: What you expected, what happened instead, and the steps to reproduce.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: CLI diff / parameters / screenshots
+      description: Paste `diff all` (Betaflight/INAV) or attach the parameter file / screenshots / wiring photo.

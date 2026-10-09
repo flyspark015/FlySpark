@@ -1,5 +1,7 @@
 # ⚡ FlySpark H743 Pro Flight Controller Stack
 
+[⬅️ All flight controllers](../README.md) · [🏠 FlySpark home](../../README.md) · [🛟 Support](../../SUPPORT.md)
+
 High performance H7 flight controller stack for X8 cinelifters, long‑range and heavy‑lift FPV platforms.
 
 - Manufacturer: **FlySpark**  

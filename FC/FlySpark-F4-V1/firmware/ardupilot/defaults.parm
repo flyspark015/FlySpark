@@ -1,0 +1,16 @@
+# setup for LED
+SERVO9_FUNCTION 120
+
+#enable DisplayPort OSD
+OSD_TYPE2 5
+
+# FlySpark F4 V1 BLS 60A stack: voltage only (the 60A ESC has no current sensor, PC1 floats)
+BATT_MONITOR 3
+
+# UART4 = onboard FlySpark BLE bridge (ESP32-C3, transparent 115200): MAVLink2 for the FlySpark app
+SERIAL4_PROTOCOL 2
+SERIAL4_BAUD 115
+
+# BLHeli_S J_H_40 16.7 ESCs: DShot300, no bidirectional DShot
+MOT_PWM_TYPE 5
+Q_M_PWM_TYPE 5

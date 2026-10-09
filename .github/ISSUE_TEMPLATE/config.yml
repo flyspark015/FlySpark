@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "💬 WhatsApp FlySpark support"
+    url: https://wa.me/916375729997
+    about: Fastest answer for orders and quick questions
+  - name: "🌐 flyspark.in contact page"
+    url: https://flyspark.in/contact
+    about: Orders, dealers and business enquiries
+  - name: "📘 FlySpark F4 V1 manual & firmware"
+    url: https://github.com/flyspark015/FlySpark/tree/main/FC/FlySpark-F4-V1
+    about: Pinout, wiring diagrams and flashing guides
